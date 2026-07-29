@@ -1422,6 +1422,1746 @@
   },
   {
     "champion": {
+      "id": "Jade_Ahri",
+      "name": "아리",
+      "title": "구미호",
+      "role": "Mid",
+      "difficulty": "Medium",
+      "description": "- 적에게 피해를 입히면 정기 흡수(P) 중첩이 쌓입니다.<br>- 혼령 질주(R)의 재사용 대기시간이 초기화되지 않습니다.",
+      "image": "Jade_Ahri"
+    },
+    "winRate": 52.53,
+    "pickRate": 4.28,
+    "banRate": 7.22,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Electrocute (Domination)",
+      "Precision"
+    ],
+    "items": [
+      "Hubris",
+      "Opportunity",
+      "Edge of Night"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Alistar",
+      "name": "알리스타",
+      "title": "미노타우로스",
+      "role": "Support",
+      "difficulty": "High",
+      "description": "- 짓밟기(P)와 승리의 포효(E)가 서로 바뀝니다.<br>- 주문력 빌드도 사용할 수 있습니다.<br>- 단독 공격로를 맡을 수 있습니다.",
+      "image": "Jade_Alistar"
+    },
+    "winRate": 51.15,
+    "pickRate": 6.8,
+    "banRate": 9.2,
+    "tier": "1티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Aftershock (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Amumu",
+      "name": "아무무",
+      "title": "슬픈 미라",
+      "role": "Support",
+      "difficulty": "Low",
+      "description": "- 붕대 던지기(Q)를 한 번만 사용할 수 있습니다.<br>- 저주의 손길(P)이 기본 공격을 맞혔을 때만 마법 저항력을 감소시킵니다.",
+      "image": "Jade_Amumu"
+    },
+    "winRate": 52.99,
+    "pickRate": 4.84,
+    "banRate": 7.66,
+    "tier": "1티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Aftershock (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Anivia",
+      "name": "애니비아",
+      "title": "얼음불사조",
+      "role": "Support",
+      "difficulty": "High",
+      "description": "- 동상(E)이 기본 지속 효과로 냉각을 적용하지 않습니다.<br>- 얼음 폭풍(R)의 둔화가 공격 속도에도 적용됩니다.",
+      "image": "Jade_Anivia"
+    },
+    "winRate": 52.76,
+    "pickRate": 4.56,
+    "banRate": 14.04,
+    "tier": "1티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Annie",
+      "name": "애니",
+      "title": "어둠의 아이",
+      "role": "Support",
+      "difficulty": "Medium",
+      "description": "- 애니가 사망하면 티버(R)도 그 뒤를 따릅니다.<br>- 방화광 (P) 중첩이 사망 시 초기화됩니다.<br>- 용암 방패(E)가 이동 속도를 제공하지 않습니다.",
+      "image": "Jade_Annie"
+    },
+    "winRate": 52.99,
+    "pickRate": 4.84,
+    "banRate": 14.26,
+    "tier": "1티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Ashe",
+      "name": "애쉬",
+      "title": "서리 궁수",
+      "role": "Support",
+      "difficulty": "Medium",
+      "description": "- 냉기 화살(Q)은 활성화 시 기본 공격이 둔화를 적용합니다.<br>- 집중(P)은 전투에서 벗어나 있을 때 치명타를 준비합니다.<br>- 매 날리기(E)는 처치 시 추가 골드를 제공합니다.",
+      "image": "Jade_Ashe"
+    },
+    "winRate": 53.22,
+    "pickRate": 5.12,
+    "banRate": 14.48,
+    "tier": "1티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Blitzcrank",
+      "name": "블리츠크랭크",
+      "title": "거대 증기 골렘",
+      "role": "Support",
+      "difficulty": "Medium",
+      "description": "- 정전기장(R)이 기본 지속 효과로 주변 적에게 번개를 떨어뜨립니다.",
+      "image": "Jade_Blitzcrank"
+    },
+    "winRate": 51.61,
+    "pickRate": 3.16,
+    "banRate": 8.54,
+    "tier": "2티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Aftershock (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Brand",
+      "name": "브랜드",
+      "title": "타오르는 복수",
+      "role": "Support",
+      "difficulty": "Medium",
+      "description": "- 불길(P)이 폭발을 일으키지 않습니다.",
+      "image": "Jade_Brand"
+    },
+    "winRate": 50,
+    "pickRate": 1.2,
+    "banRate": 7,
+    "tier": "3티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Chogath",
+      "name": "초가스",
+      "title": "공허의 공포",
+      "role": "Mid",
+      "difficulty": "Medium",
+      "description": "- 포식 (R) 중첩을 6회까지만 쌓을 수 있고 사망하면 중첩을 잃지만, 어떤 대상으로든 중첩을 얻을 수 있습니다.<br>- 날카로운 가시(E)가 활성화 스킬이고, 가시가 적을 관통합니다.",
+      "image": "Jade_Chogath"
+    },
+    "winRate": 52.76,
+    "pickRate": 8.76,
+    "banRate": 6.34,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Teleport"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Corki",
+      "name": "코르키",
+      "title": "대담한 폭격수",
+      "role": "Adc",
+      "difficulty": "Medium",
+      "description": "- 인광탄(Q)이 즉시 폭발을 일으킵니다.",
+      "image": "Jade_Corki"
+    },
+    "winRate": 50.23,
+    "pickRate": 5.68,
+    "banRate": 12.72,
+    "tier": "2티어",
+    "role": "Adc",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_DrMundo",
+      "name": "문도 박사",
+      "title": "자운의 광인",
+      "role": "Jungle",
+      "difficulty": "Medium",
+      "description": "- 타오르는 고통(W)은 주변에 광역 피해를 입히는 활성화 스킬입니다.<br>- 피학증(E)은 공격을 가하지 않고 지속시간 동안 이로운 효과를 제공합니다.<br>- 아드레날린 분출(P)은 지속적으로 체력을 재생합니다.",
+      "image": "Jade_DrMundo"
+    },
+    "winRate": 53.22,
+    "pickRate": 9.32,
+    "banRate": 6.78,
+    "tier": "1티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Grasp of the Undying (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Evelynn",
+      "name": "이블린",
+      "title": "학살자",
+      "role": "Mid",
+      "difficulty": "High",
+      "description": "- 스킬 구성이 완전히 다릅니다. 설명을 읽어 보세요.<br>- 암살자가 아니라 전사입니다.",
+      "image": "Jade_Evelynn"
+    },
+    "winRate": 52.76,
+    "pickRate": 4.56,
+    "banRate": 9.64,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Electrocute (Domination)",
+      "Precision"
+    ],
+    "items": [
+      "Hubris",
+      "Opportunity",
+      "Edge of Night"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Ezreal",
+      "name": "이즈리얼",
+      "title": "무모한 탐험가",
+      "role": "Adc",
+      "difficulty": "High",
+      "description": "- 정수의 흐름(W)이 모든 유닛을 관통하며, 적에게는 피해를 입히고 아군에게는 공격 속도를 부여합니다.<br>- 정조준 일격(R)이 적을 추가로 맞힐 때마다 감소한 피해를 입힙니다.",
+      "image": "Jade_Ezreal"
+    },
+    "winRate": 52.99,
+    "pickRate": 4.84,
+    "banRate": 9.86,
+    "tier": "1티어",
+    "role": "Adc",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Fiddlesticks",
+      "name": "피들스틱",
+      "title": "종말의 전조",
+      "role": "Support",
+      "difficulty": "High",
+      "description": "- 궁극기인 까마귀 폭풍(R)을 제외한 모든 스킬이 다릅니다.<br>- 피들스틱의 공포가 대상을 무작위 방향으로 이동하게 합니다.",
+      "image": "Jade_Fiddlesticks"
+    },
+    "winRate": 50.46,
+    "pickRate": 1.76,
+    "banRate": 11.84,
+    "tier": "3티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Gangplank",
+      "name": "갱플랭크",
+      "title": "바다의 무법자",
+      "role": "Jungle",
+      "difficulty": "High",
+      "description": "- 포탄 세례(R)가 지속적으로 광역 피해를 입히는 것이 아니라 범위 내에 무작위로 포탄을 떨어뜨립니다.<br>- 사기진작(E)은 기본 지속 효과와 사용 시 효과로 이동 속도와 공격력을 부여합니다.<br>- 혀어어어업상(Q)이 골드를 제공합니다. (바다뱀 은화는 없습니다.)",
+      "image": "Jade_Gangplank"
+    },
+    "winRate": 52.53,
+    "pickRate": 8.48,
+    "banRate": 6.12,
+    "tier": "1티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Conqueror (Precision)",
+      "Resolve"
+    ],
+    "items": [
+      "Eclipse",
+      "Sundered Sky",
+      "Sterak's Gage"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Garen",
+      "name": "가렌",
+      "title": "데마시아의 힘",
+      "role": "Jungle",
+      "difficulty": "Medium",
+      "description": "- 데마시아의 정의(R)가 마법 피해를 입힙니다.",
+      "image": "Jade_Garen"
+    },
+    "winRate": 51.84,
+    "pickRate": 3.44,
+    "banRate": 13.16,
+    "tier": "1티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Grasp of the Undying (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Gragas",
+      "name": "그라가스",
+      "title": "술취한 난동꾼",
+      "role": "Mid",
+      "difficulty": "Medium",
+      "description": "- 술통 굴리기(Q)가 설치된 시간과 관계없이 항상 최대 피해를 입힙니다.<br>- 취중 분노(W)의 효과가 오랫동안 지속됩니다.",
+      "image": "Jade_Gragas"
+    },
+    "winRate": 50.69,
+    "pickRate": 2.04,
+    "banRate": 1.06,
+    "tier": "2티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Teleport"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Heimerdinger",
+      "name": "하이머딩거",
+      "title": "위대한 발명가",
+      "role": "Support",
+      "difficulty": "High",
+      "description": "- 스킬 구성이 겉보기에는 비슷하지만 매우 다릅니다.<br>- 업그레이드!!!(R)가 한 가지 스킬만이 아니라 일정 시간 동안 모든 스킬을 강화합니다.<br>- H-28G 진화형 포탑(Q)이 위치에 상관없이 작동하지만 하이머딩거가 사망하면 파괴됩니다.",
+      "image": "Jade_Heimerdinger"
+    },
+    "winRate": 50.92,
+    "pickRate": 2.32,
+    "banRate": 1.28,
+    "tier": "2티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Janna",
+      "name": "잔나",
+      "title": "폭풍의 분노",
+      "role": "Support",
+      "difficulty": "High",
+      "description": "- 순풍(P)이 맵 전체의 아군에게 이동 속도를 부여합니다.",
+      "image": "Jade_Janna"
+    },
+    "winRate": 51.38,
+    "pickRate": 7.08,
+    "banRate": 0.62,
+    "tier": "1티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_JarvanIV",
+      "name": "자르반 4세",
+      "title": "데마시아의 귀감",
+      "role": "Jungle",
+      "difficulty": "Medium",
+      "description": "- 대격변(R)이 단일 대상 스킬입니다.<br>- 데마시아의 깃발(E)이 기본 지속 효과로 방어력을 부여합니다.",
+      "image": "Jade_JarvanIV"
+    },
+    "winRate": 50.69,
+    "pickRate": 6.24,
+    "banRate": 17.56,
+    "tier": "2티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Grasp of the Undying (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Jax",
+      "name": "잭스",
+      "title": "무기의 달인",
+      "role": "Jungle",
+      "difficulty": "Medium",
+      "description": "- 달인의 저력(R)은 기본 공격 시 중첩되는 이동 속도를 부여합니다.<br>- 장비 숙달(P)은 공격력과 주문력에 비례해 체력을 부여합니다.",
+      "image": "Jade_Jax"
+    },
+    "winRate": 50.69,
+    "pickRate": 6.24,
+    "banRate": 6.56,
+    "tier": "2티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Conqueror (Precision)",
+      "Resolve"
+    ],
+    "items": [
+      "Eclipse",
+      "Sundered Sky",
+      "Sterak's Gage"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Karthus",
+      "name": "카서스",
+      "title": "죽음을 노래하는 자",
+      "role": "Mid",
+      "difficulty": "High",
+      "description": "- 죽은 사람이라 바뀐 게 없습니다.",
+      "image": "Jade_Karthus"
+    },
+    "winRate": 53.22,
+    "pickRate": 5.12,
+    "banRate": 1.28,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Teleport"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Kassadin",
+      "name": "카사딘",
+      "title": "공허의 방랑자",
+      "role": "Mid",
+      "difficulty": "High",
+      "description": "- 힘의 파동(E)을 사용하려면 주변에서 스킬이 6회 사용되어야 합니다.<br>- 균열 이동(R)이 10회까지 중첩됩니다.<br>- 공허석(P)이 감소시킨 마법 피해의 일부를 공격 속도로 전환합니다.",
+      "image": "Jade_Kassadin"
+    },
+    "winRate": 50,
+    "pickRate": 5.4,
+    "banRate": 1.5,
+    "tier": "2티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Electrocute (Domination)",
+      "Precision"
+    ],
+    "items": [
+      "Hubris",
+      "Opportunity",
+      "Edge of Night"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Katarina",
+      "name": "카타리나",
+      "title": "사악한 칼날",
+      "role": "Mid",
+      "difficulty": "High",
+      "description": "- 단검 투척(Q)은 적에게 피해를 입히고 표식을 남깁니다. 이 표식은 카타리나의 스킬이나 기본 공격으로 소모해 추가 마법 피해를 입힐 수 있습니다.<br>- 사악한 검무(W)는 카타리나 주변에 피해를 입히고, 챔피언을 맞혔다면 이동 속도를 얻습니다.<br>- 순보(E)는 대상에게 순간이동한 뒤 피해를 입힙니다. 이후 카타리나가 피해량 감소를 얻습니다.",
+      "image": "Jade_Katarina"
+    },
+    "winRate": 50.23,
+    "pickRate": 5.68,
+    "banRate": 1.72,
+    "tier": "2티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Electrocute (Domination)",
+      "Precision"
+    ],
+    "items": [
+      "Hubris",
+      "Opportunity",
+      "Edge of Night"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Kayle",
+      "name": "케일",
+      "title": "심판자",
+      "role": "Adc",
+      "difficulty": "High",
+      "description": "- 신성한 축복(W)을 제외한 모든 스킬이 다릅니다.<br>- 레벨이 올라도 기본 공격이 바뀌지 않습니다.<br>- 신성한 열정(P)은 공격력에 비례해 주문력을, 주문력에 비례해 공격력을 부여합니다.",
+      "image": "Jade_Kayle"
+    },
+    "winRate": 51.61,
+    "pickRate": 3.16,
+    "banRate": 15.14,
+    "tier": "2티어",
+    "role": "Adc",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_KogMaw",
+      "name": "코그모",
+      "title": "심연의 아귀",
+      "role": "Adc",
+      "difficulty": "Medium",
+      "description": "- 부식성 침(Q)이 대상을 지정하는 스킬입니다.",
+      "image": "Jade_KogMaw"
+    },
+    "winRate": 50.46,
+    "pickRate": 1.76,
+    "banRate": 16.24,
+    "tier": "3티어",
+    "role": "Adc",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_LeeSin",
+      "name": "리 신",
+      "title": "눈먼 수도승",
+      "role": "Mid",
+      "difficulty": "Medium",
+      "description": "- 무엇도 리 신의 균형을 깨뜨릴 수 없습니다.",
+      "image": "Jade_LeeSin"
+    },
+    "winRate": 52.07,
+    "pickRate": 3.72,
+    "banRate": 11.18,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Electrocute (Domination)",
+      "Precision"
+    ],
+    "items": [
+      "Hubris",
+      "Opportunity",
+      "Edge of Night"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Leona",
+      "name": "레오나",
+      "title": "여명의 빛",
+      "role": "Support",
+      "difficulty": "Medium",
+      "description": "- 인간의 짧은 생에서 태양이 불변하듯, 레오나 또한 변치 않습니다.",
+      "image": "Jade_Leona"
+    },
+    "winRate": 52.3,
+    "pickRate": 4,
+    "banRate": 7,
+    "tier": "1티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Aftershock (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Lulu",
+      "name": "룰루",
+      "title": "요정 마법사",
+      "role": "Support",
+      "difficulty": "Medium",
+      "description": "- 반짝반짝 창(Q)의 투사체가 동일한 대상에게 피해를 입히지 않습니다.",
+      "image": "Jade_Lulu"
+    },
+    "winRate": 50.69,
+    "pickRate": 2.04,
+    "banRate": 5.46,
+    "tier": "2티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Lux",
+      "name": "럭스",
+      "title": "광명의 소녀",
+      "role": "Support",
+      "difficulty": "Medium",
+      "description": "- 빛의 속박(Q)이 두 번째 대상에게는 절반의 효과를 적용합니다.",
+      "image": "Jade_Lux"
+    },
+    "winRate": 50,
+    "pickRate": 5.4,
+    "banRate": 1.5,
+    "tier": "2티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Malphite",
+      "name": "말파이트",
+      "title": "거석의 파편",
+      "role": "Mid",
+      "difficulty": "Low",
+      "description": "- 난폭한 일격(W)이 기본 지속 효과로 광역 피해를 입히고, 사용하면 피해량을 증가시킵니다.",
+      "image": "Jade_Malphite"
+    },
+    "winRate": 50.92,
+    "pickRate": 6.52,
+    "banRate": 2.38,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Teleport"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Malzahar",
+      "name": "말자하",
+      "title": "공허의 예언자",
+      "role": "Mid",
+      "difficulty": "Medium",
+      "description": "- 무의 지대(W)는 잠시 광역 피해를 입히는 영역을 생성합니다.<br>- 공허충 소환(P)은 스킬을 일정 횟수 사용하면 공허충을 소환합니다.<br>- 황천의 손아귀(R)가 대상 주변에 황천의 지대를 생성하지 않습니다.",
+      "image": "Jade_Malzahar"
+    },
+    "winRate": 51.15,
+    "pickRate": 6.8,
+    "banRate": 2.6,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Teleport"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_MasterYi",
+      "name": "마스터 이",
+      "title": "우주 검사",
+      "role": "Mid",
+      "difficulty": "Medium",
+      "description": "- 우주류 검술(E)이 기본 지속 효과로 공격력을 부여하고, 사용하면 효과가 두 배로 증가합니다.<br>- 2연속 공격(P)이 확률적으로 발동합니다.<br>- 일격 필살(Q)을 사용한 뒤 나타날 위치를 지정할 수 없습니다.",
+      "image": "Jade_MasterYi"
+    },
+    "winRate": 52.99,
+    "pickRate": 4.84,
+    "banRate": 1.06,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Electrocute (Domination)",
+      "Precision"
+    ],
+    "items": [
+      "Hubris",
+      "Opportunity",
+      "Edge of Night"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_MissFortune",
+      "name": "미스 포츈",
+      "title": "현상금 사냥꾼",
+      "role": "Adc",
+      "difficulty": "Low",
+      "description": "- 활보가 W에서 P로 옮겨졌습니다.<br>- 불순물 탄환(W)은 기본 지속 효과로 적중 시 추가 마법 피해를 입히며, 사용 시 공격 속도를 제공하고 고통스러운 상처를 적용합니다.",
+      "image": "Jade_MissFortune"
+    },
+    "winRate": 50.92,
+    "pickRate": 2.32,
+    "banRate": 1.28,
+    "tier": "2티어",
+    "role": "Adc",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Morgana",
+      "name": "모르가나",
+      "title": "타락한 천사",
+      "role": "Support",
+      "difficulty": "Low",
+      "description": "- 베일의 여신은 불변의 존재입니다.",
+      "image": "Jade_Morgana"
+    },
+    "winRate": 53.22,
+    "pickRate": 9.32,
+    "banRate": 15.58,
+    "tier": "1티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Nasus",
+      "name": "나서스",
+      "title": "사막의 관리자",
+      "role": "Jungle",
+      "difficulty": "Medium",
+      "description": "- 사막의 분노(R) 사용 시 입힌 마법 피해의 일정 비율만큼 잠시 공격력을 얻습니다.",
+      "image": "Jade_Nasus"
+    },
+    "winRate": 50.92,
+    "pickRate": 2.32,
+    "banRate": 12.28,
+    "tier": "2티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Grasp of the Undying (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Nidalee",
+      "name": "니달리",
+      "title": "야성의 사냥꾼",
+      "role": "Mid",
+      "difficulty": "High",
+      "description": "- 쿠거의 상(R)을 습득하지 않은 상태로 게임을 시작합니다.<br>- 수풀 배회(P)에 사냥 효과가 없습니다.<br>- 매복 덫(W)이 끔찍한 피해를 입힙니다.",
+      "image": "Jade_Nidalee"
+    },
+    "winRate": 52.3,
+    "pickRate": 8.2,
+    "banRate": 12.5,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Electrocute (Domination)",
+      "Precision"
+    ],
+    "items": [
+      "Hubris",
+      "Opportunity",
+      "Edge of Night"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Nunu",
+      "name": "누누와 윌럼프",
+      "title": "설인 기수",
+      "role": "Mid",
+      "difficulty": "Medium",
+      "description": "- 끓어오르는 피(W)는 공격 속도와 이동 속도를 부여합니다.<br>- 얼음 덩어리(E)는 대상을 지정해 눈덩이를 하나만 던집니다.<br>- 잡아먹기(Q)는 챔피언을 공격할 수 없지만 먹은 것에 따라 이로운 효과를 제공합니다.<br>- 선지자(P)는 기본 공격을 5회 가하면 다음 스킬의 마나 소모량을 없애 줍니다.<br>- 누누와 윌럼프는 2인조니까 한 줄 더 추가했습니다.",
+      "image": "Jade_Nunu"
+    },
+    "winRate": 52.3,
+    "pickRate": 4,
+    "banRate": 4.8,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Teleport"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Olaf",
+      "name": "올라프",
+      "title": "광전사",
+      "role": "Jungle",
+      "difficulty": "Low",
+      "description": "- 광포한 공격(W)은 공격력, 생명력 흡수, 주문 흡혈을 부여합니다.<br>- 무모한 강타(E)가 소모한 체력을 돌려주지 않습니다.",
+      "image": "Jade_Olaf"
+    },
+    "winRate": 52.53,
+    "pickRate": 4.28,
+    "banRate": 13.82,
+    "tier": "1티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Grasp of the Undying (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Pantheon",
+      "name": "판테온",
+      "title": "전쟁의 장인",
+      "role": "Mid",
+      "difficulty": "Medium",
+      "description": "- 방패 방어술(P)은 스킬을 일정 횟수 사용하면 받는 피해를 방어합니다.<br>- 대강하(R)는 원형 범위에 광역 피해를 입힙니다.<br>- 심장추적자(E)는 공격할 때 판테온을 움직일 수 없습니다.",
+      "image": "Jade_Pantheon"
+    },
+    "winRate": 52.76,
+    "pickRate": 4.56,
+    "banRate": 0.84,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Electrocute (Domination)",
+      "Precision"
+    ],
+    "items": [
+      "Hubris",
+      "Opportunity",
+      "Edge of Night"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Rammus",
+      "name": "람머스",
+      "title": "중무장 아르마딜로",
+      "role": "Jungle",
+      "difficulty": "Medium",
+      "description": "- 지진(R)은 주변에 지속적으로 광역 피해를 입힙니다.<br>- 다른 스킬은 그대로인가요? 그래.",
+      "image": "Jade_Rammus"
+    },
+    "winRate": 50.92,
+    "pickRate": 6.52,
+    "banRate": 17.78,
+    "tier": "1티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Grasp of the Undying (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Ryze",
+      "name": "라이즈",
+      "title": "방랑 마법사",
+      "role": "Mid",
+      "difficulty": "High",
+      "description": "- 스킬 구성이 완전히 바뀝니다. (벌써 5번째네요.)",
+      "image": "Jade_Ryze"
+    },
+    "winRate": 50.92,
+    "pickRate": 2.32,
+    "banRate": 14.48,
+    "tier": "2티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Teleport"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Shaco",
+      "name": "샤코",
+      "title": "악마 어릿광대",
+      "role": "Mid",
+      "difficulty": "High",
+      "description": "- 환각(R)의 분신이 폭발할 때 더 큰 피해를 입히지만 깜짝 상자를 남기지 않습니다.<br>- 깜짝 상자(W)를 서로 더 가까이 설치할 수 있습니다.",
+      "image": "Jade_Shaco"
+    },
+    "winRate": 52.99,
+    "pickRate": 4.84,
+    "banRate": 16.46,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Electrocute (Domination)",
+      "Precision"
+    ],
+    "items": [
+      "Hubris",
+      "Opportunity",
+      "Edge of Night"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Singed",
+      "name": "신지드",
+      "title": "미친 화학자",
+      "role": "Mid",
+      "difficulty": "Medium",
+      "description": "- 방벽 강화(P)가 마나에 비례해 체력을 부여합니다.",
+      "image": "Jade_Singed"
+    },
+    "winRate": 52.76,
+    "pickRate": 4.56,
+    "banRate": 5.24,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Teleport"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Sion",
+      "name": "사이온",
+      "title": "언데드 챔피언",
+      "role": "Jungle",
+      "difficulty": "Medium",
+      "description": "- 스킬 구성이 완전히 다릅니다. 설명을 읽어 보세요.<br>- 주문력과 공격력 빌드를 모두 사용할 수 있습니다.<br>- 탱커형 딜러가 아니라 순수 딜러입니다.",
+      "image": "Jade_Sion"
+    },
+    "winRate": 50.92,
+    "pickRate": 6.52,
+    "banRate": 4.58,
+    "tier": "1티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Grasp of the Undying (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Sivir",
+      "name": "시비르",
+      "title": "전장의 여제",
+      "role": "Adc",
+      "difficulty": "Medium",
+      "description": "- 튕기는 부메랑(W)이 무작위로 튕깁니다.<br>- 주문 방어막(E)으로 스킬을 방어하면 체력 대신 마나를 회복합니다.",
+      "image": "Jade_Sivir"
+    },
+    "winRate": 52.3,
+    "pickRate": 4,
+    "banRate": 4.8,
+    "tier": "1티어",
+    "role": "Adc",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Skarner",
+      "name": "스카너",
+      "title": "수정 선봉장",
+      "role": "Jungle",
+      "difficulty": "Medium",
+      "description": "- 스킬 구성이 완전히 다릅니다.<br>- 기본 공격 위주의 딜러형 탱커입니다.<br>- 꿰뚫기(R)가 대상을 지정하는 단일 대상 스킬입니다.",
+      "image": "Jade_Skarner"
+    },
+    "winRate": 50,
+    "pickRate": 5.4,
+    "banRate": 10.3,
+    "tier": "2티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Grasp of the Undying (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Sona",
+      "name": "소나",
+      "title": "현의 명인",
+      "role": "Support",
+      "difficulty": "Medium",
+      "description": "- 다른 일반 스킬을 사용해도 이전 오라 효과가 잠시 남습니다.<br>- 파워 코드(P)가 추가 피해를 입힙니다.<br>- 크레센도(R)의 효과 범위가 넓습니다.",
+      "image": "Jade_Sona"
+    },
+    "winRate": 51.38,
+    "pickRate": 2.88,
+    "banRate": 1.72,
+    "tier": "2티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Soraka",
+      "name": "소라카",
+      "title": "별의 아이",
+      "role": "Support",
+      "difficulty": "Low",
+      "description": "- 궁극기인 기원(R)을 제외한 모든 스킬이 다릅니다.<br>- 단독 공격로를 맡을 수 있습니다.<br>- 대상을 지정해 침묵시킬 수 있습니다.",
+      "image": "Jade_Soraka"
+    },
+    "winRate": 51.61,
+    "pickRate": 3.16,
+    "banRate": 1.94,
+    "tier": "2티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Taric",
+      "name": "타릭",
+      "title": "보석 기사",
+      "role": "Support",
+      "difficulty": "Low",
+      "description": "- 스킬 구성이 완전히 다릅니다. 설명을 읽어 보세요.<br>- 단독 공격로를 맡을 수 있습니다. 어쩌면 정글도요.",
+      "image": "Jade_Taric"
+    },
+    "winRate": 50,
+    "pickRate": 1.2,
+    "banRate": 13.6,
+    "tier": "3티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Aftershock (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Teemo",
+      "name": "티모",
+      "title": "날쌘 정찰병",
+      "role": "Adc",
+      "difficulty": "Medium",
+      "description": "- 유독성 함정(R)이 튕기지 않습니다.",
+      "image": "Jade_Teemo"
+    },
+    "winRate": 51.38,
+    "pickRate": 7.08,
+    "banRate": 13.82,
+    "tier": "1티어",
+    "role": "Adc",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Tristana",
+      "name": "트리스타나",
+      "title": "메글링 여단 사수",
+      "role": "Adc",
+      "difficulty": "Medium",
+      "description": "- 폭발 탄환(E)이 지속 피해 스킬입니다.",
+      "image": "Jade_Tristana"
+    },
+    "winRate": 52.53,
+    "pickRate": 8.48,
+    "banRate": 1.72,
+    "tier": "1티어",
+    "role": "Adc",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Tryndamere",
+      "name": "트린다미어",
+      "title": "야만전사 왕",
+      "role": "Mid",
+      "difficulty": "Medium",
+      "description": "- 화낼까 봐 무서워 바꾸지 못했습니다.",
+      "image": "Jade_Tryndamere"
+    },
+    "winRate": 52.76,
+    "pickRate": 8.76,
+    "banRate": 1.94,
+    "tier": "1티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Electrocute (Domination)",
+      "Precision"
+    ],
+    "items": [
+      "Hubris",
+      "Opportunity",
+      "Edge of Night"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_TwistedFate",
+      "name": "트위스티드 페이트",
+      "title": "카드의 달인",
+      "role": "Adc",
+      "difficulty": "High",
+      "description": "- 관문(E)으로 맵 어디로든 순간이동할 수 있습니다.<br>- 운명(R)이 모든 적에게 둔화를 걸고 위치를 드러냅니다.<br>- 사기 주사위(P)가 모든 아군과 자신이 처치 시 얻는 골드를 증가시킵니다.",
+      "image": "Jade_TwistedFate"
+    },
+    "winRate": 52.99,
+    "pickRate": 9.04,
+    "banRate": 2.16,
+    "tier": "1티어",
+    "role": "Adc",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Twitch",
+      "name": "트위치",
+      "title": "역병 쥐",
+      "role": "Adc",
+      "difficulty": "Medium",
+      "description": "- 쇠약의 독(W)이 주변에 광역 효과를 적용합니다.<br>- 매복(Q)이 최대 50초간 지속됩니다.<br>- 말살(E)을 사용하면 적의 맹독 중첩이 제거됩니다.",
+      "image": "Jade_Twitch"
+    },
+    "winRate": 53.22,
+    "pickRate": 9.32,
+    "banRate": 2.38,
+    "tier": "1티어",
+    "role": "Adc",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Vayne",
+      "name": "베인",
+      "title": "어둠 사냥꾼",
+      "role": "Adc",
+      "difficulty": "High",
+      "description": "- 결전의 시간(R) 지속시간을 연장할 수 없습니다.",
+      "image": "Jade_Vayne"
+    },
+    "winRate": 53.22,
+    "pickRate": 5.12,
+    "banRate": 7.88,
+    "tier": "1티어",
+    "role": "Adc",
+    "spells": [
+      "Flash",
+      "Heal"
+    ],
+    "runes": [
+      "Lethal Tempo (Precision)",
+      "Inspiration"
+    ],
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Lord Dominik's Regards"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Veigar",
+      "name": "베이가",
+      "title": "악의 작은 지배자",
+      "role": "Mid",
+      "difficulty": "High",
+      "description": "- 사악한 일격(Q)이 대상을 지정하는 스킬입니다.<br>- 사건의 지평선(E)이 즉시 발동합니다.<br>- 균형(P)은 잃은 마나에 비례하여 마나 재생을 증가시킵니다.",
+      "image": "Jade_Veigar"
+    },
+    "winRate": 50,
+    "pickRate": 5.4,
+    "banRate": 8.1,
+    "tier": "2티어",
+    "role": "Mid",
+    "spells": [
+      "Flash",
+      "Teleport"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Warwick",
+      "name": "워윅",
+      "title": "피의 사냥꾼",
+      "role": "Jungle",
+      "difficulty": "Low",
+      "description": "- 스킬 구성이 완전히 다릅니다.<br>- 무한의 구속(R)이 대상을 지정하여 제압을 적용합니다.",
+      "image": "Jade_Warwick"
+    },
+    "winRate": 52.3,
+    "pickRate": 4,
+    "banRate": 0.4,
+    "tier": "1티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Grasp of the Undying (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Wukong",
+      "name": "오공",
+      "title": "",
+      "role": "Jungle",
+      "difficulty": "Low",
+      "description": "",
+      "image": "Jade_Wukong"
+    },
+    "winRate": 51.84,
+    "pickRate": 7.64,
+    "banRate": 16.46,
+    "tier": "1티어",
+    "role": "Jungle",
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": [
+      "Grasp of the Undying (Resolve)",
+      "Inspiration"
+    ],
+    "items": [
+      "Sunfire Aegis",
+      "Jak'Sho",
+      "Thornmail"
+    ]
+  },
+  {
+    "champion": {
+      "id": "Jade_Zilean",
+      "name": "질리언",
+      "title": "시간의 수호자",
+      "role": "Support",
+      "difficulty": "Medium",
+      "description": "- 시한 폭탄(Q)이 대상을 지정하는 스킬입니다.<br>- 깊은 깨달음(P)은 팀 전체에 경험치를 제공합니다.",
+      "image": "Jade_Zilean"
+    },
+    "winRate": 52.53,
+    "pickRate": 8.48,
+    "banRate": 10.52,
+    "tier": "1티어",
+    "role": "Support",
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": [
+      "Comet (Sorcery)",
+      "Inspiration"
+    ],
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap"
+    ]
+  },
+  {
+    "champion": {
       "id": "Janna",
       "name": "잔나",
       "title": "폭풍의 분노",
@@ -1432,7 +3172,7 @@
     },
     "winRate": 50.69,
     "pickRate": 2.04,
-    "banRate": 14.26,
+    "banRate": 9.86,
     "tier": "2티어",
     "role": "Support",
     "spells": [
@@ -1461,7 +3201,7 @@
     },
     "winRate": 50,
     "pickRate": 1.2,
-    "banRate": 13.6,
+    "banRate": 9.2,
     "tier": "3티어",
     "role": "Jungle",
     "spells": [
@@ -1490,7 +3230,7 @@
     },
     "winRate": 50,
     "pickRate": 1.2,
-    "banRate": 2.6,
+    "banRate": 15.8,
     "tier": "3티어",
     "role": "Jungle",
     "spells": [
@@ -1519,7 +3259,7 @@
     },
     "winRate": 51.61,
     "pickRate": 7.36,
-    "banRate": 9.64,
+    "banRate": 5.24,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -1548,7 +3288,7 @@
     },
     "winRate": 52.76,
     "pickRate": 8.76,
-    "banRate": 15.14,
+    "banRate": 10.74,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -1577,7 +3317,7 @@
     },
     "winRate": 50,
     "pickRate": 5.4,
-    "banRate": 1.5,
+    "banRate": 14.7,
     "tier": "2티어",
     "role": "Adc",
     "spells": [
@@ -1606,7 +3346,7 @@
     },
     "winRate": 53.22,
     "pickRate": 9.32,
-    "banRate": 15.58,
+    "banRate": 11.18,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -1635,7 +3375,7 @@
     },
     "winRate": 51.84,
     "pickRate": 3.44,
-    "banRate": 17.56,
+    "banRate": 13.16,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -1664,7 +3404,7 @@
     },
     "winRate": 50.23,
     "pickRate": 1.48,
-    "banRate": 16.02,
+    "banRate": 11.62,
     "tier": "3티어",
     "role": "Support",
     "spells": [
@@ -1693,7 +3433,7 @@
     },
     "winRate": 50.46,
     "pickRate": 1.76,
-    "banRate": 16.24,
+    "banRate": 11.84,
     "tier": "3티어",
     "role": "Mid",
     "spells": [
@@ -1722,7 +3462,7 @@
     },
     "winRate": 50.69,
     "pickRate": 2.04,
-    "banRate": 16.46,
+    "banRate": 12.06,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -1751,7 +3491,7 @@
     },
     "winRate": 50.92,
     "pickRate": 2.32,
-    "banRate": 16.68,
+    "banRate": 12.28,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -1780,7 +3520,7 @@
     },
     "winRate": 52.3,
     "pickRate": 8.2,
-    "banRate": 12.5,
+    "banRate": 8.1,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -1809,7 +3549,7 @@
     },
     "winRate": 52.53,
     "pickRate": 8.48,
-    "banRate": 12.72,
+    "banRate": 8.32,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -1838,7 +3578,7 @@
     },
     "winRate": 52.76,
     "pickRate": 8.76,
-    "banRate": 12.94,
+    "banRate": 8.54,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -1867,7 +3607,7 @@
     },
     "winRate": 51.84,
     "pickRate": 3.44,
-    "banRate": 17.56,
+    "banRate": 13.16,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -1896,7 +3636,7 @@
     },
     "winRate": 50.69,
     "pickRate": 2.04,
-    "banRate": 1.06,
+    "banRate": 14.26,
     "tier": "2티어",
     "role": "Adc",
     "spells": [
@@ -1925,7 +3665,7 @@
     },
     "winRate": 52.76,
     "pickRate": 4.56,
-    "banRate": 7.44,
+    "banRate": 3.04,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -1954,7 +3694,7 @@
     },
     "winRate": 52.3,
     "pickRate": 8.2,
-    "banRate": 14.7,
+    "banRate": 10.3,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -1983,7 +3723,7 @@
     },
     "winRate": 51.38,
     "pickRate": 2.88,
-    "banRate": 6.12,
+    "banRate": 1.72,
     "tier": "2티어",
     "role": "Jungle",
     "spells": [
@@ -2012,7 +3752,7 @@
     },
     "winRate": 51.61,
     "pickRate": 3.16,
-    "banRate": 15.14,
+    "banRate": 10.74,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -2041,7 +3781,7 @@
     },
     "winRate": 50.92,
     "pickRate": 2.32,
-    "banRate": 10.08,
+    "banRate": 5.68,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -2070,7 +3810,7 @@
     },
     "winRate": 51.15,
     "pickRate": 2.6,
-    "banRate": 5.9,
+    "banRate": 1.5,
     "tier": "2티어",
     "role": "Support",
     "spells": [
@@ -2099,7 +3839,7 @@
     },
     "winRate": 53.22,
     "pickRate": 5.12,
-    "banRate": 12.28,
+    "banRate": 7.88,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -2128,7 +3868,7 @@
     },
     "winRate": 51.61,
     "pickRate": 3.16,
-    "banRate": 10.74,
+    "banRate": 6.34,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -2157,7 +3897,7 @@
     },
     "winRate": 50.46,
     "pickRate": 1.76,
-    "banRate": 7.44,
+    "banRate": 3.04,
     "tier": "3티어",
     "role": "Mid",
     "spells": [
@@ -2186,7 +3926,7 @@
     },
     "winRate": 51.84,
     "pickRate": 7.64,
-    "banRate": 3.26,
+    "banRate": 16.46,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -2215,7 +3955,7 @@
     },
     "winRate": 50.46,
     "pickRate": 1.76,
-    "banRate": 5.24,
+    "banRate": 0.84,
     "tier": "3티어",
     "role": "Support",
     "spells": [
@@ -2244,7 +3984,7 @@
     },
     "winRate": 53.22,
     "pickRate": 5.12,
-    "banRate": 1.28,
+    "banRate": 14.48,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -2273,7 +4013,7 @@
     },
     "winRate": 50.69,
     "pickRate": 6.24,
-    "banRate": 2.16,
+    "banRate": 15.36,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -2302,7 +4042,7 @@
     },
     "winRate": 50.92,
     "pickRate": 6.52,
-    "banRate": 2.38,
+    "banRate": 15.58,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -2331,7 +4071,7 @@
     },
     "winRate": 52.76,
     "pickRate": 4.56,
-    "banRate": 0.84,
+    "banRate": 14.04,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -2360,7 +4100,7 @@
     },
     "winRate": 52.99,
     "pickRate": 4.84,
-    "banRate": 1.06,
+    "banRate": 14.26,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -2389,7 +4129,7 @@
     },
     "winRate": 52.76,
     "pickRate": 4.56,
-    "banRate": 16.24,
+    "banRate": 11.84,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -2418,7 +4158,7 @@
     },
     "winRate": 52.99,
     "pickRate": 4.84,
-    "banRate": 3.26,
+    "banRate": 16.46,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -2447,7 +4187,7 @@
     },
     "winRate": 51.38,
     "pickRate": 2.88,
-    "banRate": 1.72,
+    "banRate": 14.92,
     "tier": "2티어",
     "role": "Adc",
     "spells": [
@@ -2476,7 +4216,7 @@
     },
     "winRate": 50.23,
     "pickRate": 1.48,
-    "banRate": 11.62,
+    "banRate": 7.22,
     "tier": "3티어",
     "role": "Jungle",
     "spells": [
@@ -2505,7 +4245,7 @@
     },
     "winRate": 50.46,
     "pickRate": 1.76,
-    "banRate": 16.24,
+    "banRate": 11.84,
     "tier": "3티어",
     "role": "Mid",
     "spells": [
@@ -2534,7 +4274,7 @@
     },
     "winRate": 50.69,
     "pickRate": 2.04,
-    "banRate": 16.46,
+    "banRate": 12.06,
     "tier": "2티어",
     "role": "Support",
     "spells": [
@@ -2563,7 +4303,7 @@
     },
     "winRate": 51.84,
     "pickRate": 3.44,
-    "banRate": 13.16,
+    "banRate": 8.76,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -2592,7 +4332,7 @@
     },
     "winRate": 52.07,
     "pickRate": 3.72,
-    "banRate": 13.38,
+    "banRate": 8.98,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -2621,7 +4361,7 @@
     },
     "winRate": 52.3,
     "pickRate": 4,
-    "banRate": 13.6,
+    "banRate": 9.2,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -2650,7 +4390,7 @@
     },
     "winRate": 52.3,
     "pickRate": 8.2,
-    "banRate": 10.3,
+    "banRate": 5.9,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -2679,7 +4419,7 @@
     },
     "winRate": 50.46,
     "pickRate": 1.76,
-    "banRate": 14.04,
+    "banRate": 9.64,
     "tier": "3티어",
     "role": "Support",
     "spells": [
@@ -2708,7 +4448,7 @@
     },
     "winRate": 50.69,
     "pickRate": 2.04,
-    "banRate": 14.26,
+    "banRate": 9.86,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -2737,7 +4477,7 @@
     },
     "winRate": 52.76,
     "pickRate": 4.56,
-    "banRate": 16.24,
+    "banRate": 11.84,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -2766,7 +4506,7 @@
     },
     "winRate": 50,
     "pickRate": 1.2,
-    "banRate": 11.4,
+    "banRate": 7,
     "tier": "3티어",
     "role": "Mid",
     "spells": [
@@ -2795,7 +4535,7 @@
     },
     "winRate": 51.15,
     "pickRate": 6.8,
-    "banRate": 7,
+    "banRate": 2.6,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -2824,7 +4564,7 @@
     },
     "winRate": 51.38,
     "pickRate": 7.08,
-    "banRate": 16.02,
+    "banRate": 11.62,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -2853,7 +4593,7 @@
     },
     "winRate": 53.22,
     "pickRate": 5.12,
-    "banRate": 14.48,
+    "banRate": 10.08,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -2882,7 +4622,7 @@
     },
     "winRate": 50,
     "pickRate": 5.4,
-    "banRate": 14.7,
+    "banRate": 10.3,
     "tier": "2티어",
     "role": "Jungle",
     "spells": [
@@ -2911,7 +4651,7 @@
     },
     "winRate": 52.07,
     "pickRate": 7.92,
-    "banRate": 3.48,
+    "banRate": 16.68,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -2940,7 +4680,7 @@
     },
     "winRate": 51.84,
     "pickRate": 7.64,
-    "banRate": 14.26,
+    "banRate": 9.86,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -2969,7 +4709,7 @@
     },
     "winRate": 51.61,
     "pickRate": 7.36,
-    "banRate": 3.04,
+    "banRate": 16.24,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -2998,7 +4738,7 @@
     },
     "winRate": 51.61,
     "pickRate": 3.16,
-    "banRate": 8.54,
+    "banRate": 4.14,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -3027,7 +4767,7 @@
     },
     "winRate": 51.15,
     "pickRate": 6.8,
-    "banRate": 2.6,
+    "banRate": 15.8,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -3056,7 +4796,7 @@
     },
     "winRate": 50.92,
     "pickRate": 6.52,
-    "banRate": 17.78,
+    "banRate": 13.38,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -3085,7 +4825,7 @@
     },
     "winRate": 51.38,
     "pickRate": 2.88,
-    "banRate": 3.92,
+    "banRate": 17.12,
     "tier": "2티어",
     "role": "Jungle",
     "spells": [
@@ -3114,7 +4854,7 @@
     },
     "winRate": 52.76,
     "pickRate": 4.56,
-    "banRate": 14.04,
+    "banRate": 9.64,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -3143,7 +4883,7 @@
     },
     "winRate": 51.15,
     "pickRate": 6.8,
-    "banRate": 15.8,
+    "banRate": 11.4,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -3172,7 +4912,7 @@
     },
     "winRate": 52.99,
     "pickRate": 4.84,
-    "banRate": 14.26,
+    "banRate": 9.86,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -3201,7 +4941,7 @@
     },
     "winRate": 53.22,
     "pickRate": 5.12,
-    "banRate": 14.48,
+    "banRate": 10.08,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -3230,7 +4970,7 @@
     },
     "winRate": 51.38,
     "pickRate": 2.88,
-    "banRate": 1.72,
+    "banRate": 14.92,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -3259,7 +4999,7 @@
     },
     "winRate": 50.23,
     "pickRate": 5.68,
-    "banRate": 1.72,
+    "banRate": 14.92,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -3288,7 +5028,7 @@
     },
     "winRate": 51.15,
     "pickRate": 2.6,
-    "banRate": 12.5,
+    "banRate": 8.1,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -3317,7 +5057,7 @@
     },
     "winRate": 52.99,
     "pickRate": 9.04,
-    "banRate": 2.16,
+    "banRate": 15.36,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -3346,7 +5086,7 @@
     },
     "winRate": 52.53,
     "pickRate": 4.28,
-    "banRate": 9.42,
+    "banRate": 5.02,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -3375,7 +5115,7 @@
     },
     "winRate": 50.46,
     "pickRate": 1.76,
-    "banRate": 5.24,
+    "banRate": 0.84,
     "tier": "3티어",
     "role": "Jungle",
     "spells": [
@@ -3404,7 +5144,7 @@
     },
     "winRate": 50.69,
     "pickRate": 2.04,
-    "banRate": 5.46,
+    "banRate": 1.06,
     "tier": "2티어",
     "role": "Support",
     "spells": [
@@ -3433,7 +5173,7 @@
     },
     "winRate": 50.92,
     "pickRate": 2.32,
-    "banRate": 5.68,
+    "banRate": 1.28,
     "tier": "2티어",
     "role": "Support",
     "spells": [
@@ -3462,7 +5202,7 @@
     },
     "winRate": 51.15,
     "pickRate": 2.6,
-    "banRate": 5.9,
+    "banRate": 1.5,
     "tier": "2티어",
     "role": "Jungle",
     "spells": [
@@ -3491,7 +5231,7 @@
     },
     "winRate": 52.76,
     "pickRate": 4.56,
-    "banRate": 5.24,
+    "banRate": 0.84,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -3520,7 +5260,7 @@
     },
     "winRate": 51.38,
     "pickRate": 7.08,
-    "banRate": 16.02,
+    "banRate": 11.62,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -3549,7 +5289,7 @@
     },
     "winRate": 50.23,
     "pickRate": 5.68,
-    "banRate": 3.92,
+    "banRate": 17.12,
     "tier": "2티어",
     "role": "Jungle",
     "spells": [
@@ -3578,7 +5318,7 @@
     },
     "winRate": 52.99,
     "pickRate": 4.84,
-    "banRate": 12.06,
+    "banRate": 7.66,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -3607,7 +5347,7 @@
     },
     "winRate": 51.15,
     "pickRate": 6.8,
-    "banRate": 11.4,
+    "banRate": 7,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -3636,7 +5376,7 @@
     },
     "winRate": 52.53,
     "pickRate": 4.28,
-    "banRate": 11.62,
+    "banRate": 7.22,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -3665,7 +5405,7 @@
     },
     "winRate": 50.23,
     "pickRate": 5.68,
-    "banRate": 17.12,
+    "banRate": 12.72,
     "tier": "2티어",
     "role": "Jungle",
     "spells": [
@@ -3694,7 +5434,7 @@
     },
     "winRate": 50.46,
     "pickRate": 5.96,
-    "banRate": 17.34,
+    "banRate": 12.94,
     "tier": "2티어",
     "role": "Adc",
     "spells": [
@@ -3723,7 +5463,7 @@
     },
     "winRate": 51.84,
     "pickRate": 3.44,
-    "banRate": 8.76,
+    "banRate": 4.36,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -3752,7 +5492,7 @@
     },
     "winRate": 52.07,
     "pickRate": 3.72,
-    "banRate": 8.98,
+    "banRate": 4.58,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -3781,7 +5521,7 @@
     },
     "winRate": 51.15,
     "pickRate": 6.8,
-    "banRate": 0.4,
+    "banRate": 13.6,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -3810,7 +5550,7 @@
     },
     "winRate": 52.76,
     "pickRate": 8.76,
-    "banRate": 12.94,
+    "banRate": 8.54,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -3839,7 +5579,7 @@
     },
     "winRate": 51.61,
     "pickRate": 7.36,
-    "banRate": 14.04,
+    "banRate": 9.64,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -3868,7 +5608,7 @@
     },
     "winRate": 51.38,
     "pickRate": 7.08,
-    "banRate": 7.22,
+    "banRate": 2.82,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -3897,7 +5637,7 @@
     },
     "winRate": 53.22,
     "pickRate": 5.12,
-    "banRate": 5.68,
+    "banRate": 1.28,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -3926,7 +5666,7 @@
     },
     "winRate": 50,
     "pickRate": 5.4,
-    "banRate": 5.9,
+    "banRate": 1.5,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -3955,7 +5695,7 @@
     },
     "winRate": 51.84,
     "pickRate": 3.44,
-    "banRate": 4.36,
+    "banRate": 17.56,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -3984,7 +5724,7 @@
     },
     "winRate": 53.22,
     "pickRate": 9.32,
-    "banRate": 4.58,
+    "banRate": 17.78,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -4013,7 +5753,7 @@
     },
     "winRate": 50.23,
     "pickRate": 5.68,
-    "banRate": 8.32,
+    "banRate": 3.92,
     "tier": "2티어",
     "role": "Support",
     "spells": [
@@ -4042,7 +5782,7 @@
     },
     "winRate": 51.15,
     "pickRate": 2.6,
-    "banRate": 10.3,
+    "banRate": 5.9,
     "tier": "2티어",
     "role": "Adc",
     "spells": [
@@ -4071,7 +5811,7 @@
     },
     "winRate": 51.38,
     "pickRate": 2.88,
-    "banRate": 10.52,
+    "banRate": 6.12,
     "tier": "2티어",
     "role": "Jungle",
     "spells": [
@@ -4100,7 +5840,7 @@
     },
     "winRate": 51.61,
     "pickRate": 3.16,
-    "banRate": 10.74,
+    "banRate": 6.34,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -4129,7 +5869,7 @@
     },
     "winRate": 51.84,
     "pickRate": 3.44,
-    "banRate": 10.96,
+    "banRate": 6.56,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -4158,7 +5898,7 @@
     },
     "winRate": 52.07,
     "pickRate": 3.72,
-    "banRate": 11.18,
+    "banRate": 6.78,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -4187,7 +5927,7 @@
     },
     "winRate": 51.15,
     "pickRate": 6.8,
-    "banRate": 2.6,
+    "banRate": 15.8,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -4216,7 +5956,7 @@
     },
     "winRate": 51.38,
     "pickRate": 7.08,
-    "banRate": 2.82,
+    "banRate": 16.02,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -4245,7 +5985,7 @@
     },
     "winRate": 51.38,
     "pickRate": 2.88,
-    "banRate": 3.92,
+    "banRate": 17.12,
     "tier": "2티어",
     "role": "Adc",
     "spells": [
@@ -4274,7 +6014,7 @@
     },
     "winRate": 52.76,
     "pickRate": 8.76,
-    "banRate": 17.34,
+    "banRate": 12.94,
     "tier": "1티어",
     "role": "Adc",
     "spells": [
@@ -4303,7 +6043,7 @@
     },
     "winRate": 52.99,
     "pickRate": 9.04,
-    "banRate": 17.56,
+    "banRate": 13.16,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -4332,7 +6072,7 @@
     },
     "winRate": 51.61,
     "pickRate": 3.16,
-    "banRate": 1.94,
+    "banRate": 15.14,
     "tier": "2티어",
     "role": "Support",
     "spells": [
@@ -4361,7 +6101,7 @@
     },
     "winRate": 50.23,
     "pickRate": 1.48,
-    "banRate": 0.62,
+    "banRate": 13.82,
     "tier": "3티어",
     "role": "Mid",
     "spells": [
@@ -4390,7 +6130,7 @@
     },
     "winRate": 52.53,
     "pickRate": 4.28,
-    "banRate": 5.02,
+    "banRate": 0.62,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -4419,7 +6159,7 @@
     },
     "winRate": 50.46,
     "pickRate": 1.76,
-    "banRate": 5.24,
+    "banRate": 0.84,
     "tier": "3티어",
     "role": "Mid",
     "spells": [
@@ -4448,7 +6188,7 @@
     },
     "winRate": 50.92,
     "pickRate": 2.32,
-    "banRate": 5.68,
+    "banRate": 1.28,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -4477,7 +6217,7 @@
     },
     "winRate": 50.23,
     "pickRate": 5.68,
-    "banRate": 12.72,
+    "banRate": 8.32,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -4506,7 +6246,7 @@
     },
     "winRate": 51.61,
     "pickRate": 3.16,
-    "banRate": 4.14,
+    "banRate": 17.34,
     "tier": "2티어",
     "role": "Jungle",
     "spells": [
@@ -4535,7 +6275,7 @@
     },
     "winRate": 50,
     "pickRate": 1.2,
-    "banRate": 11.4,
+    "banRate": 7,
     "tier": "3티어",
     "role": "Jungle",
     "spells": [
@@ -4564,7 +6304,7 @@
     },
     "winRate": 50.46,
     "pickRate": 5.96,
-    "banRate": 1.94,
+    "banRate": 15.14,
     "tier": "2티어",
     "role": "Adc",
     "spells": [
@@ -4593,7 +6333,7 @@
     },
     "winRate": 51.84,
     "pickRate": 3.44,
-    "banRate": 15.36,
+    "banRate": 10.96,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -4622,7 +6362,7 @@
     },
     "winRate": 50.92,
     "pickRate": 6.52,
-    "banRate": 2.38,
+    "banRate": 15.58,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -4651,7 +6391,7 @@
     },
     "winRate": 52.99,
     "pickRate": 9.04,
-    "banRate": 8.76,
+    "banRate": 4.36,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -4680,7 +6420,7 @@
     },
     "winRate": 52.07,
     "pickRate": 3.72,
-    "banRate": 17.78,
+    "banRate": 13.38,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -4709,7 +6449,7 @@
     },
     "winRate": 52.3,
     "pickRate": 4,
-    "banRate": 0.4,
+    "banRate": 13.6,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -4738,7 +6478,7 @@
     },
     "winRate": 50.23,
     "pickRate": 1.48,
-    "banRate": 13.82,
+    "banRate": 9.42,
     "tier": "3티어",
     "role": "Adc",
     "spells": [
@@ -4767,7 +6507,7 @@
     },
     "winRate": 50.46,
     "pickRate": 1.76,
-    "banRate": 14.04,
+    "banRate": 9.64,
     "tier": "3티어",
     "role": "Support",
     "spells": [
@@ -4796,7 +6536,7 @@
     },
     "winRate": 52.3,
     "pickRate": 8.2,
-    "banRate": 3.7,
+    "banRate": 16.9,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -4825,7 +6565,7 @@
     },
     "winRate": 52.53,
     "pickRate": 8.48,
-    "banRate": 3.92,
+    "banRate": 17.12,
     "tier": "1티어",
     "role": "Jungle",
     "spells": [
@@ -4854,7 +6594,7 @@
     },
     "winRate": 50.46,
     "pickRate": 5.96,
-    "banRate": 17.34,
+    "banRate": 12.94,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -4883,7 +6623,7 @@
     },
     "winRate": 50.69,
     "pickRate": 6.24,
-    "banRate": 17.56,
+    "banRate": 13.16,
     "tier": "2티어",
     "role": "Adc",
     "spells": [
@@ -4912,7 +6652,7 @@
     },
     "winRate": 51.15,
     "pickRate": 6.8,
-    "banRate": 4.8,
+    "banRate": 0.4,
     "tier": "1티어",
     "role": "Mid",
     "spells": [
@@ -4941,7 +6681,7 @@
     },
     "winRate": 52.99,
     "pickRate": 9.04,
-    "banRate": 6.56,
+    "banRate": 2.16,
     "tier": "1티어",
     "role": "Support",
     "spells": [
@@ -4970,7 +6710,7 @@
     },
     "winRate": 50,
     "pickRate": 5.4,
-    "banRate": 1.5,
+    "banRate": 14.7,
     "tier": "2티어",
     "role": "Mid",
     "spells": [
@@ -4999,7 +6739,7 @@
     },
     "winRate": 50.46,
     "pickRate": 1.76,
-    "banRate": 5.24,
+    "banRate": 0.84,
     "tier": "3티어",
     "role": "Support",
     "spells": [
